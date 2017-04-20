@@ -8,13 +8,13 @@ When you type www.localhost:8080/home will allow you to select press the registr
 
 ## Submission Details
 I modified copy from code pen and followed all of daniel shiffmans videos. It was challenging but it works 
-![alt tag](http://url/img/imga.png)
-![alt tag](http://url/img/imgb.png)
-![alt tag](http://url/img/imgc.png)
-![alt tag](http://url/img/imgd.png)
-![alt tag](http://url/img/imge.png)
-![alt tag](http://url/img/imgf.png)
-![alt tag](http://url/img/imgg.png)
-![alt tag](http://url/img/imgh.png)
+![alt tag](img/imga.png)
+![alt tag](img/imgb.png)
+![alt tag](img/imgc.png)
+![alt tag](img/imgd.png)
+![alt tag](img/imge.png)
+![alt tag](img/imgf.png)
+![alt tag](img/imgg.png)
+![alt tag](img/imgh.png)
 
 
