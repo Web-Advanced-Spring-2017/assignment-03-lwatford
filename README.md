@@ -13,7 +13,7 @@ WHAT I LIKED: scrapping the data was pretty fun!
 
 ## Submission Details
 I modified copy from code pen and followed all of daniel shiffmans videos. It was challenging but it works 
-![alt tag](img/imga.png)
+![alt tag][img/imga.png]
 ![alt tag](img/imgb.png)
 ![alt tag](img/imgc.png)
 ![alt tag](img/imgd.png)
