@@ -15,7 +15,7 @@ WHAT I LIKED: scrapping the data was pretty fun!
 I modified copy from code pen and followed all of daniel shiffmans videos. It was challenging but it works 
 
 
-<img src="img/imga.png">
+<img src="ms_two-master/img/imga.png">
 
 <img src="img/imgb.png">
 
