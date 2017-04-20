@@ -1,10 +1,15 @@
 # Assignment 03
 
-## :star2: [Accept Assignment](https://classroom.github.com/assignment-invitations/dcb3f86f9439ea9075db3735c731f697)
-
 ## Assignment Specification
-I created a data visualization using sockets. It tracks how many users go to the page and adds a line using socket. 
-When you type www.localhost:8080/home will allow you to select press the registration button it pulls the registration numbers from the json file I scraped the datafrom using ParseHub!!!
+I created a data visualization using socket.io. It tracks how many users go to the page and adds a line using socket.io and emits how many times the site has been clicked. 
+
+The awesome part is thaat by coding io.sockets.emit it emits in real time! Fun, right! Super cool.
+
+CHALLENGES: were setting up the lines to run based on the launch of the website, at first I was working with mouse pressed but it didn't work. The "for loop" made this project more siccessful.  
+
+When you type www.localhost:8080/home will allow you to press the registration button it pulls the registration numbers from the json file I scraped the data from http://www.adoptiondatabase.org/ using ParseHub!!!
+
+WHAT I LIKED: scrapping the data was pretty fun!
 
 ## Submission Details
 I modified copy from code pen and followed all of daniel shiffmans videos. It was challenging but it works 
