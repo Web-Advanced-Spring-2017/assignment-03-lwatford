@@ -13,13 +13,23 @@ WHAT I LIKED: scrapping the data was pretty fun!
 
 ## Submission Details
 I modified copy from code pen and followed all of daniel shiffmans videos. It was challenging but it works 
-![alt tag][img/imga.png]
-![alt tag](img/imgb.png)
-![alt tag](img/imgc.png)
-![alt tag](img/imgd.png)
-![alt tag](img/imge.png)
-![alt tag](img/imgf.png)
-![alt tag](img/imgg.png)
-![alt tag](img/imgh.png)
+
+
+<img src="img/imga.png">
+
+<img src="img/imgb.png">
+
+<img src="img/imgc.png">
+
+<img src="img/imgd.png">
+
+<img src="img/imge.png">
+
+<img src="img/imgf.png">
+
+<img src="img/imgg.png">
+
+<img src="img/imgh.png">
+
 
 
